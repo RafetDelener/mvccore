@@ -1,0 +1,2 @@
+# mvccore
+Eticaret
